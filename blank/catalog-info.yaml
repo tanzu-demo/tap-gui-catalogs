@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: backstage-catalog-info
+  description: A sample catalog for Backstage
+  annotations:
+    'backstage.io/techdocs-ref': dir:.
+spec:
+  targets:
+    - ./components/backstage.yaml
+    - ./groups/default-org.yaml
+    - ./systems/backstage-system.yaml
+    - ./domains/backstage-domain.yaml
