@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: spring-petclinic-app
+  name: spring-petclinic
   description: Spring PetClinic App
   tags:
     - app-accelerator
   annotations:
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/name=spring-petclinic'
+    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=spring-petclinic'
 spec:
   type: service
   lifecycle: demo
