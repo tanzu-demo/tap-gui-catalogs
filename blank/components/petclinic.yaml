@@ -11,4 +11,4 @@ spec:
   type: service
   lifecycle: demo
   owner: default-team
-  system: 
+  system: backstage
