@@ -10,6 +10,8 @@ metadata:
       title: Spring PetClinic Source
   tags:
     - app-accelerator
+    - java
+    - spring
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=spring-petclinic'
 spec:
