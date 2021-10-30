@@ -5,7 +5,9 @@ metadata:
   description: Spring PetClinic App
   links:
     - url: https://github.com/tanzu-demo/tap-gui-catalogs/blob/main/blank/components/petclinic.yaml
-      title: Spring PetClinic
+      title: Spring PetClinic Component
+    - url: https://github.com/sample-accelerators/spring-petclinic/
+      title: Spring PetClinic Source
   tags:
     - app-accelerator
   annotations:
