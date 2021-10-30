@@ -14,6 +14,7 @@ metadata:
     - spring
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=spring-petclinic'
+    'github.com/project-slug': 'tanzu-demo/spring-petclinic'
 spec:
   type: service
   lifecycle: demo
