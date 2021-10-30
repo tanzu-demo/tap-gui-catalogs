@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: spring-petclinic
   description: Spring PetClinic App
+  links:
+    - url: https://github.com/tanzu-demo/tap-gui-catalogs/blob/main/blank/components/petclinic.yaml
+      title: Spring PetClinic
+      icon: https://github.com/sample-accelerators/icons/raw/master/icon-pets.jpeg
   tags:
     - app-accelerator
   annotations:
