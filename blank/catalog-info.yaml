@@ -11,4 +11,4 @@ spec:
     - ./groups/default-org.yaml
     - ./systems/backstage-system.yaml
     - ./domains/backstage-domain.yaml
-    # - ./components/petclinic.yaml
+    - https://github.com/tanzu-demo/spring-petclinic/blob/main/catalog-info.yaml
