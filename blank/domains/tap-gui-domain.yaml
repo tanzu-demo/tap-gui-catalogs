@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: backstage-domain
+  name: tap-gui-domain
   description: Everything related to the Tanzu Application Platform GUI
   links:
     - url: http://example.com/domain/cloud-apps/

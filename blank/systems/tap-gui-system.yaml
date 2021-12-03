@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: backstage
+  name: tap-gui
   description: Tanzu Application Platform GUI System
   annotations:
     'backstage.io/techdocs-ref': dir:.
 spec:
   owner: default-team
-  domain: backstage-domain
+  domain: tap-gui-domain

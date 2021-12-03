@@ -7,9 +7,9 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
 spec:
   targets:
-    - ./components/backstage.yaml
+    - ./components/tap-gui.yaml
     - ./groups/default-org.yaml
-    - ./systems/backstage-system.yaml
-    - ./domains/backstage-domain.yaml
+    - ./systems/tap-gui-system.yaml
+    - ./domains/tap-gui-domain.yaml
     - https://github.com/tanzu-demo/spring-petclinic/blob/main/catalog-info.yaml
     - https://github.com/tanzu-demo/tanzu-java-web-app/blob/main/catalog-info.yaml
