@@ -11,4 +11,4 @@ spec:
     - ./groups/default-org.yaml
     - ./systems/tap-gui-system.yaml
     - ./domains/tap-gui-domain.yaml
-    - https://github.com/tanzu-demo/spring-petclinic/blob/main/catalog-info.yaml
+    - https://github.com/tanzu-demo/spring-petclinic/blob/main/catalog/catalog-info.yaml
