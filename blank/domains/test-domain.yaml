@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: test
+  name: test-domain
   description: Everything related to tests
   links:
     - url: http://example.com/domain/cloud-apps/
