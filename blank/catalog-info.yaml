@@ -10,5 +10,7 @@ spec:
     - ./components/tap-gui.yaml
     - ./groups/default-org.yaml
     - ./systems/tap-gui-system.yaml
+    - ./systems/test-system.yaml
     - ./domains/tap-gui-domain.yaml
+    - ./domains/test-domain.yaml
     - https://github.com/tanzu-demo/spring-petclinic/blob/main/catalog/catalog-info.yaml
