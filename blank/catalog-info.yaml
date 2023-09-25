@@ -14,4 +14,4 @@ spec:
     - ./domains/tap-gui-domain.yaml
     - ./domains/test-domain.yaml
     - https://github.com/tanzu-demo/spring-petclinic/blob/main/catalog/catalog-info.yaml
-    - https://githib.com/trisberg/hello-world-acc/accelerator.yaml
+    - https://github.com/trisberg/hello-world-acc/accelerator.yaml
