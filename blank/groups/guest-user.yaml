@@ -8,3 +8,14 @@ spec:
     email: guest@example.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
   memberOf: [default-team]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tanzu-demo
+spec:
+  profile:
+    displayName: Tanzu Demo
+    email: tanzu-demo@example.com
+    picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
+  memberOf: [default-team]
