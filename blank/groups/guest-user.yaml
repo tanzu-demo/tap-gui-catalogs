@@ -29,4 +29,4 @@ spec:
     displayName: Thomas
     email: risbergt@vmware.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
-  memberOf: [default-team]
+  memberOf: [test-team]
