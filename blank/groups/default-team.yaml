@@ -11,5 +11,17 @@ spec:
     picture: https://avatars.dicebear.com/api/identicon/team-a@example.com.svg?background=%23fff&margin=25
   parent: default-org
   children: []
-
-
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: test-team
+  description: Test Team
+spec:
+  type: team
+  profile:
+    displayName: Default Team
+    email: team-b@example.com
+    picture: https://avatars.dicebear.com/api/identicon/team-a@example.com.svg?background=%23fff&margin=25
+  parent: default-org
+  children: []
