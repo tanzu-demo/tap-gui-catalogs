@@ -15,7 +15,7 @@ metadata:
   name: trisberg
 spec:
   profile:
-    displayName: Guest User
-    email: trisberg@pivotal.io
+    displayName: Thomas Risberg
+    email: risbergt@vmware.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
   memberOf: [test-team]
